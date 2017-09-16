@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="/ext/build/classic/theme-gray/resources/theme-gray-all.css">
+    <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
+    <!-- <script src="src/Car.js"></script> -->
+    <!-- <script src="src/Sonata.js"></script> -->
+</head>
+<body>
+    <script type="text/javascript">
+    Ext.Loader.setConfig({
+        paths: {
+            'ClassSystem' : 'src'
+        }
+    });
+    Ext.require([
+        'ClassSystem.Truck',
+        'ClassSystem.Sonata'
+    ])
+    Ext.onReady(function() {
+        var sonata = Ext.create('ClassSystem.Sonata');
+        console.log(sonata.missionType);
+        sonata.run(40);
+
+        var truck = Ext.create('ClassSystem.Truck');
+
+    });
+    </script>
+</body>
+</html>

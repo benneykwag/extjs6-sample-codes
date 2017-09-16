@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="/ext/build/classic/theme-gray/resources/theme-gray-all.css">
+    <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
+    
+</head>
+<body>
+    <script type="text/javascript">
+    Ext.Loader.setConfig({
+        paths: {
+            'ClassSystem' : 'src'
+        }
+    });
+    Ext.require([
+    ])
+    Ext.onReady(function() {
+        Ext.define('Foo.bar.Util', {
+            extend: 'Ext.Mixin',
+       
+            mixinConfig: {
+                before: {
+                    destroy: 'destroyUtil'
+                },
+                after: {
+                    destroy: 'destroyUtil'
+                }
+            },
+       
+            destroyUtil: function () {
+                console.log('U');
+            }
+        });
+       
+        Ext.define('Foo.bar.Class', {
+            mixins: {
+                util: 'Foo.bar.Util'
+            },
+       
+            destroy: function () {
+                console.log('D');
+            }
+        });
+        Ext.define('Foo.bar.Base', {
+            destroy: function () {
+                console.log('B');
+                // cleanup
+            }
+        });
+        Ext.define('Foo.bar.Derived', {
+            extend: 'Foo.bar.Base',
+
+            mixins: {
+                util: 'Foo.bar.Util'
+            },
+
+            destroy: function () {
+                console.log('D');
+                // more cleanup
+
+                this.mixins.util.destroy.call(this);
+
+                this.callParent(); // let Foo.bar.Base cleanup as well
+            }
+        });
+        var obj = new Foo.bar.Derived();
+       
+        obj.destroy();
+        // logs D then U
+    });
+    </script>
+</body>
+</html>
