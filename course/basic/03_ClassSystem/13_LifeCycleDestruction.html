@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="/ext/build/classic/theme-triton/resources/theme-triton-all.css">
+    <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
+    
+</head>
+<body>
+    <script type="text/javascript">
+    Ext.Loader.setConfig({
+        paths: {
+            'ClassSystem' : 'src'
+        }
+    });
+    Ext.require([
+    ])
+    Ext.onReady(function() {
+        // Destrution
+        // 컴포넌트의 마지막 단계로 destroy되면 Dom트리에서 자식 엘리먼트를
+        // 제거하거나 ComponentMansger에서 Component의 등록을
+        // 해제하는 단계이다.
+        // 1. beforedestroy event fire
+        // 이벤트 핸들러가 false를 반환하면 취소가 가능한 이벤트다. 
+        // 2. de registred from Floating
+        // Floating으로 등록된 컴포넌트를 FloatingManager에서 등록을 취소.
+        // 3. Component removed from parent
+        // 부모 컨테이너에서 해당 컴포넌트를 제거한다.
+        // 4. onDestroy Method called
+
+    });
+    </script>
+</body>
+</html>

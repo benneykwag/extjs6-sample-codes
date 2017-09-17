@@ -3,22 +3,23 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <title></title>
-    <link rel="stylesheet" href="/ext/build/classic/theme-gray/resources/theme-gray-all.css">
+    <link rel="stylesheet" href="/ext/build/classic/theme-triton/resources/theme-triton-all.css">
     <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
-    
 </head>
 <body>
     <script type="text/javascript">
     Ext.Loader.setConfig({
         paths: {
-            'ClassSystem' : 'src'
+            'chapter4' : 'src'
         }
     });
     Ext.require([
+        'chapter4.BorderLayout'
     ])
     Ext.onReady(function() {
-       var newCar = Ext.create('ClassSystem.NewCar');
-       console.log(newCar.getWheelCount())
+        var sonata = Ext.create('chapter4.BorderLayout', {
+            renderTo: document.body
+        });
         
     });
     </script>
