@@ -1,5 +1,5 @@
 Ext.define('chapter4.CardChild1', {
-    extend : 'Ext.panel.Panel',
+    extend: 'Ext.form.Panel',
     xtype: 'chapter4-cardchild1',
     id: 'card1',                   // #1
     bodyPadding: 5,

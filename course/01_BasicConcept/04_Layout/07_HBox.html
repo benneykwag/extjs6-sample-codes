@@ -8,38 +8,25 @@
 </head>
 <body>
     <script type="text/javascript">
-    Ext.Loader.setConfig({
-        paths: {
-            'chapter4' : 'src'
-        }
-    });
-    Ext.require([
-        'chapter4.HBoxLayout'
-    ])
-    Ext.onReady(function() {
-        Ext.create('chapter4.HBoxLayout', {
-            renderTo : document.body
+        Ext.Loader.setConfig({
+            paths: {
+                'chapter4': 'src'
+            }
         });
+        Ext.require([
+           'chapter4.HBoxLayout'
+        ]);
 
-        // Ext.create('chapter4.HBoxLayout', {
-        //     layout : {
-        //        type : 'hbox',
-        //        align : 'stretchmax',
-        //         // pack: 'center',
-        //        padding : 10
-        //    },
-        //     renderTo : document.body
-        // });
-
-        // Ext.create('chapter4.HBoxLayout', {
-        //     layout : {
-        //        type : 'hbox',
-        //        align : 'stretch',
-        //        padding : 10
-        //    },
-        //     renderTo : document.body
-        // });
-    });
+        Ext.onReady(function () {
+            Ext.create('chapter4.HBoxLayout',{
+               renderTo: document.body,
+                layout: {
+                    type: 'hbox',
+                    align: 'stretch',
+                    pack: 'center'
+                }
+            });
+        })
     </script>
 </body>
 </html>

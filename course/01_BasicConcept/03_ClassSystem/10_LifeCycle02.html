@@ -5,47 +5,42 @@
     <title></title>
     <link rel="stylesheet" href="/ext/build/classic/theme-triton/resources/theme-triton-all.css">
     <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
-    
+
 </head>
 <body>
-    <script type="text/javascript">
-    Ext.Loader.setConfig({
-        paths: {
-            'ClassSystem' : 'src'
-        }
-    });
-    Ext.require([
-    ])
+<script type="text/javascript">
     Ext.onReady(function() {
         Ext.define('ClassSystem.LifeCycle', {
             extend: 'Ext.Component',
 
-            // step 1 초기화.
+            // initialization
             initComponent: function(){
-                console.log('initial')
+                console.log('init..');
                 this.callParent(arguments);
             },
 
             listeners: {
-                render: function(){
-                    console.log('render')
+                beforerender: function () {
+                    console.log('beforerender..');
                 },
-                destroy: function(){
-                    console.log('destroy')
+                afterrender: function () {
+                    console.log('afterrender..');
+                },
+                render: function () {
+                    console.log('render..');
+                },
+                destroy: function () {
+                    console.log('destroy..')
                 }
             }
         });
         // case 1
-        Ext.create('ClassSystem.LifeCycle');
-
-        // case 2
         var component = Ext.create('ClassSystem.LifeCycle', {
-            html: 'Hello World',
-            renderTo: document.body
+            renderTo: document.body,
+            html: 'Hello World'
         });
-        // case 3
-        component.destroy();
+       // component.destroy();
     });
-    </script>
+</script>
 </body>
 </html>

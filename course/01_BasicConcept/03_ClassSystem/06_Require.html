@@ -5,8 +5,8 @@
     <title></title>
     <link rel="stylesheet" href="/ext/build/classic/theme-triton/resources/theme-triton-all.css">
     <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
-    <!-- <script src="src/Car.js"></script> -->
-    <!-- <script src="src/Sonata.js"></script> -->
+     <!--<script src="src/Car.js"></script>-->
+     <!--<script src="src/Sonata.js"></script>-->
 </head>
 <body>
     <script type="text/javascript">
@@ -18,15 +18,16 @@
     Ext.require([
         'ClassSystem.Truck',
         'ClassSystem.Sonata'
-    ])
+    ]);
     Ext.onReady(function() {
         var sonata = Ext.create('ClassSystem.Sonata');
         console.log(sonata.missionType);
         sonata.run(40);
 
-        var truck = Ext.create('ClassSystem.Truck');
+//        var truck = Ext.create('ClassSystem.Truck');
 
     });
     </script>
 </body>
 </html>
+

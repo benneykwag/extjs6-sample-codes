@@ -1,48 +1,46 @@
 Ext.define('chapter4.CardLayout', {
-    alias: 'widget.chapter4-cardlayout',
     extend: 'Ext.panel.Panel',
+    xtype: 'chapter4-cardlayout',
+    title: 'Card Layout',
     requires: [
-        'Ext.form.field.Date',
-        'Ext.layout.container.Card',
         'chapter4.CardChild1',
         'chapter4.CardChild2',
         'chapter4.CardChild3'
     ],
-    title: 'Card Layout',
     width: 350,
     height: 250,
     layout: {
-        type: 'card',        // #1
+        type: 'card',
         deferredRender: true
     },
-
     initComponent: function () {
         var me = this;
         Ext.apply(me, {
-            bbar: ['->', { // #2
-                xtype: 'button',    // #3
-                text: '이전',
-                handler: function (btn) {   // #4
-                    var layout = btn.up('panel').getLayout();   // #5
-
-                    if (layout.getPrev()) {     // #6
-                        layout.prev();          // #7
-                        me.cardInfo();        // #8
+            bbar: [
+                {
+                    xtype: 'button',
+                    text: '이전',
+                    handler: function (btn) {
+                        var layout = btn.up('panel').getLayout();
+                        if (layout.getPrev()) {
+                            layout.prev();
+                            me.cardInfo();
+                        }
+                    }
+                },
+                {
+                    xtype: 'button',
+                    text: '다음',
+                    handler: function (btn) {
+                        var layout = btn.up('panel').getLayout();
+                        if (layout.getNext()) {
+                            layout.next();
+                            me.cardInfo();
+                        }
                     }
                 }
-            }, {
-                xtype: 'button',
-                text: '다음',
-                handler: function (btn) {
-                    var layout = btn.up('panel').getLayout();
-
-                    if (layout.getNext()) { // #9
-                        layout.next();      // #10
-                        me.cardInfo();      // #11
-                    }
-                }
-            }],
-            items: [    // #12
+            ],
+            items: [
                 {
                     xtype: 'chapter4-cardchild1'
                 },
@@ -54,26 +52,28 @@ Ext.define('chapter4.CardLayout', {
                 }
             ],
             listeners: {
-                render: {   // #13
-                    fn: this.cardInfo,
-                    scope: this
+                render: {
+                    fn: me.cardInfo,
+                    scope: me
                 }
             }
         });
-        me.callParent(arguments);
+        this.callParent(arguments);
     },
 
-    cardCheck: function (domId) {   // #14
+    cardCheck: function (domId) {
         var checkValue = Ext.Object.isEmpty(document.getElementById(domId));
-        return domId + '는 ' + (checkValue ? '존재하지 않습니다.' : '존재합니다.') + '전체 Dom 크기는 :' + document.getElementsByTagName("*").length + '입니다.';
+
+        return domId + '는  ' + (checkValue ? '존재하지 않는다' : '존재한다.') + '전체 dom 크기는'
+            + document.getElementsByTagName("*").length + '입니다.';
     },
 
-    cardInfo: function () { // #15
+    cardInfo: function () {
         var me = this,
             task = new Ext.util.DelayedTask(function () {
-                console.log(me.cardCheck('card1'))
-                console.log(me.cardCheck('card2'))
-                console.log(me.cardCheck('card3'))
+                console.log(me.cardCheck('card1'));
+                console.log(me.cardCheck('card2'));
+                console.log(me.cardCheck('card3'));
             });
         task.delay(500);
     }

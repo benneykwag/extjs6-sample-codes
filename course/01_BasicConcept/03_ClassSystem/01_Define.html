@@ -11,9 +11,6 @@
     <script type="text/javascript">
     // Ext.onReady 내부에 ExtJS코드를 실행한다.
     Ext.onReady(function() {
-        // Ext.define(className, members);
-       
-        
         var bob = Ext.create('ClassSystem.Person', { name: 'Bob'});
         
         bob.eat("Salad"); // alert("Bob is eating: Salad");
@@ -31,7 +28,7 @@
             }
         });
 
-        var awesome = new My.awesome.Class({
+        var awesome = Ext.create('My.awesome.Class', {
             name: 'Super Awesome'
         });
 

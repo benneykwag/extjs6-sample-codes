@@ -1,0 +1,37 @@
+<!--//
+sdk 폴더 내부에서 ExtJS 실행을 위한 파일만 연결한다.
+1. sdk 링크 추가.
+    /ext/build/ext-all-debug.js
+2. 테마 css 링크 추가.
+    /ext/classic/theme-gray/ 이하로 이동하여
+    sencha package build 명령을 실행하고 링크를 추가한다..
+    //-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title></title>
+    <link rel="stylesheet" 
+    href="/ext/build/classic/theme-triton/resources/theme-triton-all.css">
+    <script type="text/javascript" 
+    src="/ext/build/ext-all-debug.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+Ext.onReady(function(){
+     // Ext.onReady 내부에 ExtJS코드를 실행한다.
+     Ext.onReady(function() {
+        var versions = Ext.versions;
+       console.log('Ext JS Version : ', versions.ext.version);
+
+       Ext.create('Ext.panel.Panel',{
+           title: 'Ext JS Version : '+versions.ext.version,
+           renderTo : document.body,
+           html: 'Browser : ' + versions['Chrome'].version
+       });
+    });
+});
+</script>
+</body>
+</html>

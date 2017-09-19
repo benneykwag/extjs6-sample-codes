@@ -8,37 +8,63 @@
 </head>
 <body>
     <script type="text/javascript">
-    Ext.Loader.setConfig({
-        paths: {
-            'chapter4' : 'src'
-        }
-    });
-    Ext.require([
-        'chapter4.VBoxLayout'
-    ])
-    Ext.onReady(function() {
-        Ext.create('chapter4.VBoxLayout', {
-            renderTo : document.body
+        Ext.Loader.setConfig({
+            paths: {
+                'chapter4': 'src'
+            }
         });
+        Ext.require([
+           'chapter4.VBoxLayout'
+        ]);
 
-        // Ext.create('chapter4.VBoxLayout', {
-        //     layout : {
-        //        type : 'vbox',
-        //        align : 'stretchmax',
-        //        padding : 10
-        //    },
-        //     renderTo : document.body
-        // });
-
-        // Ext.create('chapter4.VBoxLayout', {
-        //     layout : {
-        //        type : 'hbox',
-        //        align : 'stretch',
-        //        padding : 10
-        //    },
-        //     renderTo : document.body
-        // });
-    });
+        Ext.onReady(function () {
+            Ext.create('Ext.panel.Panel',{
+                layout: {
+                    type: 'vbox',
+                    align: 'stretch'
+                },
+                title: '부모.',
+                width: 500,
+                border: true,
+                items: [
+                    {
+                        xtype: 'panel',
+//                        width: 300,
+                        height: 100,
+                        border: true,
+                        title: 'Header'
+                    },
+                    {
+                        xtype: 'container',
+                        layout: 'hbox',
+                        height: 200,
+                        items: [
+                            {
+                                xtype: 'panel',
+                                width: 100,
+                                title: '메뉴'
+                            },
+                            {
+                                xtype: 'panel',
+                                title: '프로그램영역',
+                                flex:.5
+                            },
+                            {
+                                xtype: 'panel',
+                                title: '프로그램영역',
+                                flex:.5
+                            }
+                        ]
+                    },
+                    {
+                        xtype: 'panel',
+                        height: 200,
+                        html :'footer....'
+                    }
+                ],
+                renderTo : document.body
+            })
+        })
     </script>
 </body>
 </html>

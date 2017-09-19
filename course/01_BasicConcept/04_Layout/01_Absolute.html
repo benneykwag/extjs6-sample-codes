@@ -8,20 +8,20 @@
 </head>
 <body>
     <script type="text/javascript">
-    Ext.Loader.setConfig({
-        paths: {
-            'chapter4' : 'src'
-        }
-    });
-    Ext.require([
-        'chapter4.AbsoluteLayout'
-    ])
-    Ext.onReady(function() {
-        var sonata = Ext.create('chapter4.AbsoluteLayout', {
-            renderTo: document.body
+        Ext.Loader.setConfig({
+            paths: {
+                'chapter4': 'src'
+            }
         });
-        
-    });
+        Ext.require([
+           'chapter4.AbsoluteLayout'
+        ]);
+
+        Ext.onReady(function () {
+            Ext.create('chapter4.AbsoluteLayout',{
+               renderTo: document.body
+            });
+        })
     </script>
 </body>
 </html>

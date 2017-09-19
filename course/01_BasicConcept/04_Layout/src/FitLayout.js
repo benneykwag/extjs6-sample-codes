@@ -1,13 +1,16 @@
 Ext.define('chapter4.FitLayout', {
-    alias: 'widget.chapter4-fitlayout',
     extend: 'Ext.panel.Panel',
-    height: 300,
+    alias: 'widget.chapter4-fitlayout',
+    border: true,
+    title: 'Fit Layout',
     width: 300,
-    padding: '5 5 5 5',
-    layout: 'fit',
-    items: {
-        xtype: 'button',
-        text: '버튼은 크기를 갖지만 부모의 레이아웃이 Fit이면 부모크기를 모두 사용합니다.'
-    }
+    height: 300,
+    padding: 5,
+    layout : 'fit',
+    items: [
+        {
+            xtype: 'button',
+            text: '동해물과 백두산아... 하하하하하하.'
+        }
+    ]
 });
-

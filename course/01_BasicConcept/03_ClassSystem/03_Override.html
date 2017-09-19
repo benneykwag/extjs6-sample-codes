@@ -15,6 +15,7 @@
         var sonata = Ext.create('ClassSystem.Sonata');
         console.log(sonata.missionType);
         sonata.run(40);
+
         Ext.override(ClassSystem.Sonata, {
             run: function(speed, gear){
                 console.log('소나타의 속도는 ', speed, '기어는 ', gear, '입니다..')

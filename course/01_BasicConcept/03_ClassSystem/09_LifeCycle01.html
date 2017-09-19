@@ -9,43 +9,34 @@
 </head>
 <body>
     <script type="text/javascript">
-    Ext.Loader.setConfig({
-        paths: {
-            'ClassSystem' : 'src'
-        }
-    });
-    Ext.require([
-    ])
     Ext.onReady(function() {
         Ext.define('ClassSystem.LifeCycle', {
-            extend: 'Ext.Component',
+            extend: 'Ext.panel.Panel',
 
-            // step 1 초기화.
+            // initialization
             initComponent: function(){
-                console.log('initial')
+                console.log('init..1');
                 this.callParent(arguments);
             },
 
-            onRender: function(){
-                console.log('render')
-                this.callParent(arguments);
+            onRender: function () {
+                console.log('render..');
+                 this.callParent(arguments);
             },
 
-            destroy: function(){
-                console.log('destroy')
+            destroy: function () {
+                console.log('destroy..');
                 this.callParent(arguments);
             }
         });
         // case 1
-        Ext.create('ClassSystem.LifeCycle');
-
-        // case 2
         var component = Ext.create('ClassSystem.LifeCycle', {
-            html: 'Hello World',
-            renderTo: document.body
+            renderTo: document.body,
+            width: 100,
+            height: 300,
+            title: 'Hello World'
         });
-        // case 3
-        // component.destroy();
+        //component.destroy();
     });
     </script>
 </body>
