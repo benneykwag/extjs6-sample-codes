@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title></title>
+    <link rel="stylesheet" href="/ext/build/classic/theme-triton/resources/theme-triton-all.css">
+    <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+    Ext.Loader.setConfig({
+        paths: {
+            'DataPackage': 'src'
+        }
+    });
+    Ext.require([
+        'DataPackage.model.Board'
+    ]);
+    Ext.onReady(function () {
+        var store = Ext.create('Ext.data.Store', {  // #1
+            model: 'DataPackage.model.Board',   // #2
+            proxy: {    // #3
+                type: 'ajax',
+                url: 'data.json',
+                reader: {
+                    type: 'json',
+                    rootProperty: 'data'
+                }
+            },
+            autoLoad: true  // #4
+        });
+
+        /***
+         Step2 로드된 결과 얻기.
+         */
+        store.on('load', function (records) { // #5
+            records.each(function (item) {    // #6
+                console.log(item.data)
+            })
+        });
+    });
+</script>
+</body>
+</html>
