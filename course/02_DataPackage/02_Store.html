@@ -18,15 +18,7 @@
     ]);
     Ext.onReady(function () {
         var store = Ext.create('Ext.data.Store', {  // #1
-            model: 'DataPackage.model.Board',   // #2
-            proxy: {    // #3
-                type: 'ajax',
-                url: 'data.json',
-                reader: {
-                    type: 'json',
-                    rootProperty: 'data'
-                }
-            },
+            model: 'DataPackage.model.Board',
             autoLoad: true  // #4
         });
 
@@ -34,9 +26,15 @@
          Step2 로드된 결과 얻기.
          */
         store.on('load', function (records) { // #5
-            records.each(function (item) {    // #6
-                console.log(item.data)
-            })
+            var first = records.first();
+            first.set('title', '안녕요..');
+            first.set('role','general');
+            records.remove(first);
+
+            records.sync({
+                callback: function () {
+                }
+            });
         });
     });
 </script>

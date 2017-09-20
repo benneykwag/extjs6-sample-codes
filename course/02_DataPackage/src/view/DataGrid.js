@@ -1,23 +1,41 @@
 Ext.define('DataPackage.view.DataGrid', {
     extend: 'Ext.grid.Panel',
-    xtype: 'cla-datagrid',
-    requires: ['DataPackage.model.Board'],
+    xtype: 'datagrid',
+    requires: [
+        'DataPackage.model.Board'
+    ],
+    width: 600,
+    height: 300,
+
+    store: {
+        model: 'DataPackage.model.Board',
+        autoLoad: true
+    },
+    columnLines: true,
     columns: [
         {
-            text: '이름',
-            dataIndex: 'name'
-        }
-    ],
-    store: {
-        model: 'DataPackage.model.Board',   // #2
-        proxy: {    // #3
-            type: 'ajax',
-            url: 'data.json',
-            reader: {
-                type: 'json',
-                rootProperty: 'data'
-            }
+            text: "name",
+            dataIndex: "name"
         },
-        autoLoad: true
-    }
+        {
+            text: "title",
+            dataIndex: "title"
+        },
+        {
+            text: "userName",
+            dataIndex: "userName"
+        },
+        {
+            text: "content",
+            dataIndex: "content"
+        },
+        {
+            text: "role",
+            dataIndex: "role"
+        },
+        {
+            text: "readCnt",
+            dataIndex: "readCnt"
+        }
+    ]
 });

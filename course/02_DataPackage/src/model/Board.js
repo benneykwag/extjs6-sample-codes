@@ -10,10 +10,6 @@ Ext.define('DataPackage.model.Board', {
             type: 'string'
         },
         {
-            name: 'role',
-            type: 'string'
-        },
-        {
             name: 'content',
             type: 'string'
         },
@@ -23,34 +19,42 @@ Ext.define('DataPackage.model.Board', {
             dateFormat: 'Y.m.d'
         },
         {
-            name: 'updateDate',
-            type: 'date',
-            dateFormat: 'Y.m.d'
-        },
-        {
-            name: 'readCnt',
-            type: 'int'
-        },
-        {
-            name: 'deleteYn',
-            type: 'boolean',
-            defaultValue: false
+            name: 'role',
+            type: 'string'
         }
     ],
-
-    validators: {
-        title: 'presence',        // #1
-        content: {
-            type: 'length', min: 2, max: 10 //#2
+    proxy: {
+        type: 'ajax',
+        api: {
+            read: '/course/02_DataPackage/data.json?read',
+            create: 'data.json?create',
+            update: 'data.json?update',
+            destroy: 'data.json?destroy'
         },
-        deleteYn: {
-            type: 'inclusion', list: [true, false]  // #3
+        reader: {
+            type: 'json',
+            rootProperty: 'data'
+        },
+        writer: {
+            type: 'json',
+            allowSingle: false,
+            writeAllFields: true
+        }
+    },
+    validators: {
+        title: 'presence',
+        content: {
+            type: 'length',
+            min: 2,
+            max: 10
         },
         role: [
-            {   type: 'exclusion', list: ['Admin', 'Manager']} // #4
-        ],
-        userName: {
-            type: 'format', matcher: /^[ㄱ-힣"'\\{\\}\s]+$/   // #5
-        }
+            {
+                type: 'exclusion',
+                list: [
+                    'Admin','Manager'
+                ]
+            }
+        ]
     }
 });
