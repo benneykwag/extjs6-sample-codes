@@ -20,17 +20,14 @@
         'arch.controller.Root'
     ]);
     Ext.onReady(function () {
-        Ext.create('arch.view.mvc.Main',{
-            renderTo: document.body
-        })
-//        Ext.application({
-//            name: 'arch',
-//            extend: 'Ext.app.Application',
-//            controllers: [
-//                'Root'
-//            ],
-//            autoCreateViewport: 'arch.view.mvc.Main'
-//        });
+       Ext.application({
+           name: 'arch',
+           extend: 'Ext.app.Application',
+           controllers: [
+               'Root'
+           ],
+           autoCreateViewport: 'arch.view.mvc.Main'
+       });
     });
 </script>
 </body>

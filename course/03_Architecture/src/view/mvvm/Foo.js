@@ -1,7 +1,7 @@
 Ext.define('arch.view.mvvm.Foo', {
     extend: 'Ext.panel.Panel',
     xtype: 'foo',
-
+    
     requires: [
         'arch.view.mvvm.FooController',
         'DataPackage.view.DataGrid',
@@ -14,7 +14,7 @@ Ext.define('arch.view.mvvm.Foo', {
         }
     },
     controller: 'foo',
-//            defaultListenerScope: true,
+    // defaultListenerScope: true,
 
     bind: {
         title: '{title}'
@@ -26,7 +26,7 @@ Ext.define('arch.view.mvvm.Foo', {
 
     listeners: {
         change: {
-            delegate: 'textfield[fieldLabel=Bar]',
+            delegate: 'textfield[fieldLabel=검색]',
             fn: 'onBarChange'
         },
         scope: 'this',
