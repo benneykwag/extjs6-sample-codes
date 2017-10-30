@@ -4,7 +4,8 @@
      */
     "apps": [
         "ClassApp",
-        "MyApp"
+        "MyApp",
+        "kitchensink"
     ],
 
     /**

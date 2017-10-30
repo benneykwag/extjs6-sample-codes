@@ -1,0 +1,2682 @@
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-contact-mail::before {
+    content: 'contact_mail';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-contact-phone::before {
+    content: 'contact_phone';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-contacts::before {
+    content: 'contacts';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dialer-sip::before {
+    content: 'dialer_sip';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dialpad::before {
+    content: 'dialpad';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-email::before {
+    content: 'email';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-forum::before {
+    content: 'forum';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-import-contacts::before {
+    content: 'import_contacts';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-import-export::before {
+    content: 'import_export';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-invert-colors-off::before {
+    content: 'invert_colors_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-live-help::before {
+    content: 'live_help';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-off::before {
+    content: 'location_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-on::before {
+    content: 'location_on';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mail-outline::before {
+    content: 'mail_outline';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-message::before {
+    content: 'message';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-no-sim::before {
+    content: 'no_sim';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone::before {
+    content: 'phone';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-erase::before {
+    content: 'phonelink_erase';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-lock::before {
+    content: 'phonelink_lock';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-ring::before {
+    content: 'phonelink_ring';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-setup::before {
+    content: 'phonelink_setup';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-portable-wifi-off::before {
+    content: 'portable_wifi_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-present-to-all::before {
+    content: 'present_to_all';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ring-volume::before {
+    content: 'ring_volume';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rss-feed::before {
+    content: 'rss_feed';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-share::before {
+    content: 'screen_share';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker-phone::before {
+    content: 'speaker_phone';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-current-landscape::before {
+    content: 'stay_current_landscape';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-current-portrait::before {
+    content: 'stay_current_portrait';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-primary-landscape::before {
+    content: 'stay_primary_landscape';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-primary-portrait::before {
+    content: 'stay_primary_portrait';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stop-screen-share::before {
+    content: 'stop_screen_share';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-swap-calls::before {
+    content: 'swap_calls';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-textsms::before {
+    content: 'textsms';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-voicemail::before {
+    content: 'voicemail';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vpn-key::before {
+    content: 'vpn_key';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add::before {
+    content: 'add';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-box::before {
+    content: 'add_box';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-circle::before {
+    content: 'add_circle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-circle-outline::before {
+    content: 'add_circle_outline';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-archive::before {
+    content: 'archive';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-backspace::before {
+    content: 'backspace';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-block::before {
+    content: 'block';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-clear::before {
+    content: 'clear';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-content-copy::before {
+    content: 'content_copy';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-content-cut::before {
+    content: 'content_cut';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-content-paste::before {
+    content: 'content_paste';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-create::before {
+    content: 'create';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-delete-sweep::before {
+    content: 'delete_sweep';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drafts::before {
+    content: 'drafts';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-list::before {
+    content: 'filter_list';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flag::before {
+    content: 'flag';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-font-download::before {
+    content: 'font_download';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-forward::before {
+    content: 'forward';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gesture::before {
+    content: 'gesture';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-inbox::before {
+    content: 'inbox';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-link::before {
+    content: 'link';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-low-priority::before {
+    content: 'low_priority';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mail::before {
+    content: 'mail';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-markunread::before {
+    content: 'markunread';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-move-to-inbox::before {
+    content: 'move_to_inbox';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-next-week::before {
+    content: 'next_week';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-redo::before {
+    content: 'redo';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove::before {
+    content: 'remove';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-circle::before {
+    content: 'remove_circle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-circle-outline::before {
+    content: 'remove_circle_outline';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-reply::before {
+    content: 'reply';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-reply-all::before {
+    content: 'reply_all';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-report::before {
+    content: 'report';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-save::before {
+    content: 'save';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-select-all::before {
+    content: 'select_all';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-send::before {
+    content: 'send';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sort::before {
+    content: 'sort';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-text-format::before {
+    content: 'text_format';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-unarchive::before {
+    content: 'unarchive';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-undo::before {
+    content: 'undo';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-weekend::before {
+    content: 'weekend';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-access-alarm::before {
+    content: 'access_alarm';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-access-alarms::before {
+    content: 'access_alarms';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-access-time::before {
+    content: 'access_time';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-alarm::before {
+    content: 'add_alarm';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airplanemode-active::before {
+    content: 'airplanemode_active';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airplanemode-inactive::before {
+    content: 'airplanemode_inactive';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-alert::before {
+    content: 'battery_alert';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-charging-full::before {
+    content: 'battery_charging_full';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-full::before {
+    content: 'battery_full';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-std::before {
+    content: 'battery_std';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-unknown::before {
+    content: 'battery_unknown';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth::before {
+    content: 'bluetooth';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-connected::before {
+    content: 'bluetooth_connected';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-disabled::before {
+    content: 'bluetooth_disabled';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-searching::before {
+    content: 'bluetooth_searching';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-auto::before {
+    content: 'brightness_auto';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-high::before {
+    content: 'brightness_high';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-low::before {
+    content: 'brightness_low';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-medium::before {
+    content: 'brightness_medium';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-data-usage::before {
+    content: 'data_usage';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-developer-mode::before {
+    content: 'developer_mode';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-devices::before {
+    content: 'devices';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dvr::before {
+    content: 'dvr';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gps-fixed::before {
+    content: 'gps_fixed';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gps-not-fixed::before {
+    content: 'gps_not_fixed';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gps-off::before {
+    content: 'gps_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-graphic-eq::before {
+    content: 'graphic_eq';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-disabled::before {
+    content: 'location_disabled';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-searching::before {
+    content: 'location_searching';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-cell::before {
+    content: 'network_cell';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-wifi::before {
+    content: 'network_wifi';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nfc::before {
+    content: 'nfc';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-lock-landscape::before {
+    content: 'screen_lock_landscape';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-lock-portrait::before {
+    content: 'screen_lock_portrait';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-lock-rotation::before {
+    content: 'screen_lock_rotation';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-rotation::before {
+    content: 'screen_rotation';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sd-storage::before {
+    content: 'sd_storage';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-settings-system-daydream::before {
+    content: 'settings_system_daydream';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-4-bar::before {
+    content: 'signal_cellular_4_bar';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-connected-no-internet-4-bar::before {
+    content: 'signal_cellular_connected_no_internet_4_bar';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-no-sim::before {
+    content: 'signal_cellular_no_sim';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-null::before {
+    content: 'signal_cellular_null';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-off::before {
+    content: 'signal_cellular_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-wifi-4-bar::before {
+    content: 'signal_wifi_4_bar';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-wifi-4-bar-lock::before {
+    content: 'signal_wifi_4_bar_lock';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-wifi-off::before {
+    content: 'signal_wifi_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-storage::before {
+    content: 'storage';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-usb::before {
+    content: 'usb';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wallpaper::before {
+    content: 'wallpaper';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-widgets::before {
+    content: 'widgets';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi-lock::before {
+    content: 'wifi_lock';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi-tethering::before {
+    content: 'wifi_tethering';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-attach-file::before {
+    content: 'attach_file';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-attach-money::before {
+    content: 'attach_money';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-all::before {
+    content: 'border_all';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-bottom::before {
+    content: 'border_bottom';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-clear::before {
+    content: 'border_clear';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-color::before {
+    content: 'border_color';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-horizontal::before {
+    content: 'border_horizontal';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-inner::before {
+    content: 'border_inner';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-left::before {
+    content: 'border_left';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-outer::before {
+    content: 'border_outer';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-right::before {
+    content: 'border_right';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-style::before {
+    content: 'border_style';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-top::before {
+    content: 'border_top';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-vertical::before {
+    content: 'border_vertical';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bubble-chart::before {
+    content: 'bubble_chart';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drag-handle::before {
+    content: 'drag_handle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-center::before {
+    content: 'format_align_center';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-justify::before {
+    content: 'format_align_justify';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-left::before {
+    content: 'format_align_left';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-right::before {
+    content: 'format_align_right';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-bold::before {
+    content: 'format_bold';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-clear::before {
+    content: 'format_clear';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-color-fill::before {
+    content: 'format_color_fill';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-color-reset::before {
+    content: 'format_color_reset';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-color-text::before {
+    content: 'format_color_text';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-indent-decrease::before {
+    content: 'format_indent_decrease';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-indent-increase::before {
+    content: 'format_indent_increase';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-italic::before {
+    content: 'format_italic';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-line-spacing::before {
+    content: 'format_line_spacing';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-list-bulleted::before {
+    content: 'format_list_bulleted';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-list-numbered::before {
+    content: 'format_list_numbered';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-paint::before {
+    content: 'format_paint';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-quote::before {
+    content: 'format_quote';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-shapes::before {
+    content: 'format_shapes';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-size::before {
+    content: 'format_size';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-strikethrough::before {
+    content: 'format_strikethrough';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-textdirection-l-to-r::before {
+    content: 'format_textdirection_l_to_r';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-textdirection-r-to-l::before {
+    content: 'format_textdirection_r_to_l';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-underlined::before {
+    content: 'format_underlined';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-functions::before {
+    content: 'functions';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-highlight::before {
+    content: 'highlight';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-chart::before {
+    content: 'insert_chart';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-comment::before {
+    content: 'insert_comment';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-drive-file::before {
+    content: 'insert_drive_file';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-emoticon::before {
+    content: 'insert_emoticon';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-invitation::before {
+    content: 'insert_invitation';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-link::before {
+    content: 'insert_link';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-photo::before {
+    content: 'insert_photo';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-linear-scale::before {
+    content: 'linear_scale';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-merge-type::before {
+    content: 'merge_type';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mode-comment::before {
+    content: 'mode_comment';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mode-edit::before {
+    content: 'mode_edit';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-monetization-on::before {
+    content: 'monetization_on';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-money-off::before {
+    content: 'money_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-multiline-chart::before {
+    content: 'multiline_chart';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pie-chart::before {
+    content: 'pie_chart';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pie-chart-outlined::before {
+    content: 'pie_chart_outlined';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-publish::before {
+    content: 'publish';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-short-text::before {
+    content: 'short_text';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-show-chart::before {
+    content: 'show_chart';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-space-bar::before {
+    content: 'space_bar';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-strikethrough-s::before {
+    content: 'strikethrough_s';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-text-fields::before {
+    content: 'text_fields';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-title::before {
+    content: 'title';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-bottom::before {
+    content: 'vertical_align_bottom';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-center::before {
+    content: 'vertical_align_center';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-top::before {
+    content: 'vertical_align_top';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wrap-text::before {
+    content: 'wrap_text';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-attachment::before {
+    content: 'attachment';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud::before {
+    content: 'cloud';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-circle::before {
+    content: 'cloud_circle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-done::before {
+    content: 'cloud_done';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-download::before {
+    content: 'cloud_download';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-off::before {
+    content: 'cloud_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-queue::before {
+    content: 'cloud_queue';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-upload::before {
+    content: 'cloud_upload';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-create-new-folder::before {
+    content: 'create_new_folder';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-file-download::before {
+    content: 'file_download';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-file-upload::before {
+    content: 'file_upload';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder::before {
+    content: 'folder';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-open::before {
+    content: 'folder_open';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-shared::before {
+    content: 'folder_shared';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast::before {
+    content: 'cast';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast-connected::before {
+    content: 'cast_connected';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-computer::before {
+    content: 'computer';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-mac::before {
+    content: 'desktop_mac';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-windows::before {
+    content: 'desktop_windows';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-developer-board::before {
+    content: 'developer_board';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-device-hub::before {
+    content: 'device_hub';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-devices-other::before {
+    content: 'devices_other';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dock::before {
+    content: 'dock';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gamepad::before {
+    content: 'gamepad';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset::before {
+    content: 'headset';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset-mic::before {
+    content: 'headset_mic';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard::before {
+    content: 'keyboard';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-down::before {
+    content: 'keyboard_arrow_down';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-left::before {
+    content: 'keyboard_arrow_left';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-right::before {
+    content: 'keyboard_arrow_right';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-up::before {
+    content: 'keyboard_arrow_up';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-backspace::before {
+    content: 'keyboard_backspace';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-capslock::before {
+    content: 'keyboard_capslock';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-hide::before {
+    content: 'keyboard_hide';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-return::before {
+    content: 'keyboard_return';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-tab::before {
+    content: 'keyboard_tab';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-voice::before {
+    content: 'keyboard_voice';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop::before {
+    content: 'laptop';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-chromebook::before {
+    content: 'laptop_chromebook';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-mac::before {
+    content: 'laptop_mac';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-windows::before {
+    content: 'laptop_windows';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-memory::before {
+    content: 'memory';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mouse::before {
+    content: 'mouse';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-android::before {
+    content: 'phone_android';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-iphone::before {
+    content: 'phone_iphone';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink::before {
+    content: 'phonelink';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-off::before {
+    content: 'phonelink_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power-input::before {
+    content: 'power_input';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-router::before {
+    content: 'router';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-scanner::before {
+    content: 'scanner';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-security::before {
+    content: 'security';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card::before {
+    content: 'sim_card';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smartphone::before {
+    content: 'smartphone';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker::before {
+    content: 'speaker';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker-group::before {
+    content: 'speaker_group';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet::before {
+    content: 'tablet';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-android::before {
+    content: 'tablet_android';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-mac::before {
+    content: 'tablet_mac';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-toys::before {
+    content: 'toys';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tv::before {
+    content: 'tv';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-videogame-asset::before {
+    content: 'videogame_asset';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-watch::before {
+    content: 'watch';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-a-photo::before {
+    content: 'add_a_photo';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-to-photos::before {
+    content: 'add_to_photos';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adjust::before {
+    content: 'adjust';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant::before {
+    content: 'assistant';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant-photo::before {
+    content: 'assistant_photo';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-audiotrack::before {
+    content: 'audiotrack';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-circular::before {
+    content: 'blur_circular';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-linear::before {
+    content: 'blur_linear';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-off::before {
+    content: 'blur_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-on::before {
+    content: 'blur_on';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-1::before {
+    content: 'brightness_1';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-2::before {
+    content: 'brightness_2';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-3::before {
+    content: 'brightness_3';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-4::before {
+    content: 'brightness_4';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-5::before {
+    content: 'brightness_5';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-6::before {
+    content: 'brightness_6';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-7::before {
+    content: 'brightness_7';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-broken-image::before {
+    content: 'broken_image';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brush::before {
+    content: 'brush';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-burst-mode::before {
+    content: 'burst_mode';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera::before {
+    content: 'camera';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-alt::before {
+    content: 'camera_alt';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-front::before {
+    content: 'camera_front';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-rear::before {
+    content: 'camera_rear';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-roll::before {
+    content: 'camera_roll';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-strong::before {
+    content: 'center_focus_strong';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-weak::before {
+    content: 'center_focus_weak';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections::before {
+    content: 'collections';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections-bookmark::before {
+    content: 'collections_bookmark';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-color-lens::before {
+    content: 'color_lens';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-colorize::before {
+    content: 'colorize';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-compare::before {
+    content: 'compare';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point::before {
+    content: 'control_point';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point-duplicate::before {
+    content: 'control_point_duplicate';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop::before {
+    content: 'crop';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-16-9::before {
+    content: 'crop_16_9';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-3-2::before {
+    content: 'crop_3_2';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-5-4::before {
+    content: 'crop_5_4';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-7-5::before {
+    content: 'crop_7_5';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-din::before {
+    content: 'crop_din';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-free::before {
+    content: 'crop_free';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-landscape::before {
+    content: 'crop_landscape';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-original::before {
+    content: 'crop_original';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-portrait::before {
+    content: 'crop_portrait';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-rotate::before {
+    content: 'crop_rotate';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-square::before {
+    content: 'crop_square';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dehaze::before {
+    content: 'dehaze';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-details::before {
+    content: 'details';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit::before {
+    content: 'edit';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure::before {
+    content: 'exposure';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-1::before {
+    content: 'exposure_neg_1';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-2::before {
+    content: 'exposure_neg_2';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-1::before {
+    content: 'exposure_plus_1';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-2::before {
+    content: 'exposure_plus_2';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-zero::before {
+    content: 'exposure_zero';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter::before {
+    content: 'filter';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-1::before {
+    content: 'filter_1';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-2::before {
+    content: 'filter_2';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-3::before {
+    content: 'filter_3';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-4::before {
+    content: 'filter_4';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-5::before {
+    content: 'filter_5';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-6::before {
+    content: 'filter_6';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-7::before {
+    content: 'filter_7';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-8::before {
+    content: 'filter_8';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9::before {
+    content: 'filter_9';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9-plus::before {
+    content: 'filter_9_plus';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-b-and-w::before {
+    content: 'filter_b_and_w';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-center-focus::before {
+    content: 'filter_center_focus';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-drama::before {
+    content: 'filter_drama';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-frames::before {
+    content: 'filter_frames';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-hdr::before {
+    content: 'filter_hdr';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-none::before {
+    content: 'filter_none';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-tilt-shift::before {
+    content: 'filter_tilt_shift';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-vintage::before {
+    content: 'filter_vintage';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flare::before {
+    content: 'flare';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-auto::before {
+    content: 'flash_auto';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-off::before {
+    content: 'flash_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-on::before {
+    content: 'flash_on';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flip::before {
+    content: 'flip';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gradient::before {
+    content: 'gradient';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grain::before {
+    content: 'grain';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-off::before {
+    content: 'grid_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-on::before {
+    content: 'grid_on';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-off::before {
+    content: 'hdr_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-on::before {
+    content: 'hdr_on';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-strong::before {
+    content: 'hdr_strong';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-weak::before {
+    content: 'hdr_weak';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-healing::before {
+    content: 'healing';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image::before {
+    content: 'image';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image-aspect-ratio::before {
+    content: 'image_aspect_ratio';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-iso::before {
+    content: 'iso';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-landscape::before {
+    content: 'landscape';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-add::before {
+    content: 'leak_add';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-remove::before {
+    content: 'leak_remove';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-lens::before {
+    content: 'lens';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-linked-camera::before {
+    content: 'linked_camera';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks::before {
+    content: 'looks';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-3::before {
+    content: 'looks_3';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-4::before {
+    content: 'looks_4';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-5::before {
+    content: 'looks_5';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-6::before {
+    content: 'looks_6';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-one::before {
+    content: 'looks_one';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-two::before {
+    content: 'looks_two';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-loupe::before {
+    content: 'loupe';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-monochrome-photos::before {
+    content: 'monochrome_photos';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-creation::before {
+    content: 'movie_creation';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-filter::before {
+    content: 'movie_filter';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-music-note::before {
+    content: 'music_note';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature::before {
+    content: 'nature';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature-people::before {
+    content: 'nature_people';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-before::before {
+    content: 'navigate_before';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-next::before {
+    content: 'navigate_next';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-palette::before {
+    content: 'palette';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama::before {
+    content: 'panorama';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-fish-eye::before {
+    content: 'panorama_fish_eye';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-horizontal::before {
+    content: 'panorama_horizontal';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-vertical::before {
+    content: 'panorama_vertical';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-wide-angle::before {
+    content: 'panorama_wide_angle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo::before {
+    content: 'photo';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-album::before {
+    content: 'photo_album';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-camera::before {
+    content: 'photo_camera';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-filter::before {
+    content: 'photo_filter';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-library::before {
+    content: 'photo_library';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-actual::before {
+    content: 'photo_size_select_actual';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-large::before {
+    content: 'photo_size_select_large';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-small::before {
+    content: 'photo_size_select_small';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-picture-as-pdf::before {
+    content: 'picture_as_pdf';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-portrait::before {
+    content: 'portrait';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-red-eye::before {
+    content: 'remove_red_eye';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-90-degrees-ccw::before {
+    content: 'rotate_90_degrees_ccw';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-left::before {
+    content: 'rotate_left';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-right::before {
+    content: 'rotate_right';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-slideshow::before {
+    content: 'slideshow';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-straighten::before {
+    content: 'straighten';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-style::before {
+    content: 'style';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-camera::before {
+    content: 'switch_camera';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-video::before {
+    content: 'switch_video';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tag-faces::before {
+    content: 'tag_faces';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-texture::before {
+    content: 'texture';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timelapse::before {
+    content: 'timelapse';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer::before {
+    content: 'timer';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-10::before {
+    content: 'timer_10';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-3::before {
+    content: 'timer_3';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-off::before {
+    content: 'timer_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tonality::before {
+    content: 'tonality';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transform::before {
+    content: 'transform';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tune::before {
+    content: 'tune';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-comfy::before {
+    content: 'view_comfy';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-compact::before {
+    content: 'view_compact';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vignette::before {
+    content: 'vignette';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-auto::before {
+    content: 'wb_auto';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-cloudy::before {
+    content: 'wb_cloudy';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-incandescent::before {
+    content: 'wb_incandescent';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-iridescent::before {
+    content: 'wb_iridescent';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-sunny::before {
+    content: 'wb_sunny';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-location::before {
+    content: 'add_location';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beenhere::before {
+    content: 'beenhere';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions::before {
+    content: 'directions';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bike::before {
+    content: 'directions_bike';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-boat::before {
+    content: 'directions_boat';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bus::before {
+    content: 'directions_bus';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-car::before {
+    content: 'directions_car';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-railway::before {
+    content: 'directions_railway';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-run::before {
+    content: 'directions_run';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-subway::before {
+    content: 'directions_subway';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-transit::before {
+    content: 'directions_transit';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-walk::before {
+    content: 'directions_walk';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit-location::before {
+    content: 'edit_location';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ev-station::before {
+    content: 'ev_station';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flight::before {
+    content: 'flight';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hotel::before {
+    content: 'hotel';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers::before {
+    content: 'layers';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers-clear::before {
+    content: 'layers_clear';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-activity::before {
+    content: 'local_activity';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-airport::before {
+    content: 'local_airport';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-atm::before {
+    content: 'local_atm';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-bar::before {
+    content: 'local_bar';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-cafe::before {
+    content: 'local_cafe';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-car-wash::before {
+    content: 'local_car_wash';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-convenience-store::before {
+    content: 'local_convenience_store';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-dining::before {
+    content: 'local_dining';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-drink::before {
+    content: 'local_drink';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-florist::before {
+    content: 'local_florist';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-gas-station::before {
+    content: 'local_gas_station';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-grocery-store::before {
+    content: 'local_grocery_store';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hospital::before {
+    content: 'local_hospital';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hotel::before {
+    content: 'local_hotel';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-laundry-service::before {
+    content: 'local_laundry_service';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-library::before {
+    content: 'local_library';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-mall::before {
+    content: 'local_mall';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-movies::before {
+    content: 'local_movies';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-offer::before {
+    content: 'local_offer';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-parking::before {
+    content: 'local_parking';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pharmacy::before {
+    content: 'local_pharmacy';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-phone::before {
+    content: 'local_phone';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pizza::before {
+    content: 'local_pizza';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-play::before {
+    content: 'local_play';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-post-office::before {
+    content: 'local_post_office';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-printshop::before {
+    content: 'local_printshop';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-see::before {
+    content: 'local_see';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-shipping::before {
+    content: 'local_shipping';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-taxi::before {
+    content: 'local_taxi';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-map::before {
+    content: 'map';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-my-location::before {
+    content: 'my_location';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigation::before {
+    content: 'navigation';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-near-me::before {
+    content: 'near_me';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin::before {
+    content: 'person_pin';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin-circle::before {
+    content: 'person_pin_circle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pin-drop::before {
+    content: 'pin_drop';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-place::before {
+    content: 'place';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rate-review::before {
+    content: 'rate_review';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant::before {
+    content: 'restaurant';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant-menu::before {
+    content: 'restaurant_menu';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-satellite::before {
+    content: 'satellite';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-store-mall-directory::before {
+    content: 'store_mall_directory';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-streetview::before {
+    content: 'streetview';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subway::before {
+    content: 'subway';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-terrain::before {
+    content: 'terrain';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-traffic::before {
+    content: 'traffic';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-train::before {
+    content: 'train';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tram::before {
+    content: 'tram';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transfer-within-a-station::before {
+    content: 'transfer_within_a_station';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-zoom-out-map::before {
+    content: 'zoom_out_map';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-apps::before {
+    content: 'apps';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-back::before {
+    content: 'arrow_back';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-downward::before {
+    content: 'arrow_downward';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down::before {
+    content: 'arrow_drop_down';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down-circle::before {
+    content: 'arrow_drop_down_circle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-up::before {
+    content: 'arrow_drop_up';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-forward::before {
+    content: 'arrow_forward';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-upward::before {
+    content: 'arrow_upward';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cancel::before {
+    content: 'cancel';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check::before {
+    content: 'check';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-left::before {
+    content: 'chevron_left';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-right::before {
+    content: 'chevron_right';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-close::before {
+    content: 'close';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-less::before {
+    content: 'expand_less';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-more::before {
+    content: 'expand_more';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-first-page::before {
+    content: 'first_page';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen::before {
+    content: 'fullscreen';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen-exit::before {
+    content: 'fullscreen_exit';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-last-page::before {
+    content: 'last_page';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-menu::before {
+    content: 'menu';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-horiz::before {
+    content: 'more_horiz';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-vert::before {
+    content: 'more_vert';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-refresh::before {
+    content: 'refresh';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-left::before {
+    content: 'subdirectory_arrow_left';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-right::before {
+    content: 'subdirectory_arrow_right';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adb::before {
+    content: 'adb';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat::before {
+    content: 'airline_seat_flat';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat-angled::before {
+    content: 'airline_seat_flat_angled';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-individual-suite::before {
+    content: 'airline_seat_individual_suite';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-extra::before {
+    content: 'airline_seat_legroom_extra';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-normal::before {
+    content: 'airline_seat_legroom_normal';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-reduced::before {
+    content: 'airline_seat_legroom_reduced';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-extra::before {
+    content: 'airline_seat_recline_extra';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-normal::before {
+    content: 'airline_seat_recline_normal';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-audio::before {
+    content: 'bluetooth_audio';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-confirmation-number::before {
+    content: 'confirmation_number';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-disc-full::before {
+    content: 'disc_full';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb::before {
+    content: 'do_not_disturb';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-alt::before {
+    content: 'do_not_disturb_alt';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-off::before {
+    content: 'do_not_disturb_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-on::before {
+    content: 'do_not_disturb_on';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drive-eta::before {
+    content: 'drive_eta';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-enhanced-encryption::before {
+    content: 'enhanced_encryption';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-available::before {
+    content: 'event_available';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-busy::before {
+    content: 'event_busy';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-note::before {
+    content: 'event_note';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-special::before {
+    content: 'folder_special';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-live-tv::before {
+    content: 'live_tv';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mms::before {
+    content: 'mms';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more::before {
+    content: 'more';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-check::before {
+    content: 'network_check';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-locked::before {
+    content: 'network_locked';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-no-encryption::before {
+    content: 'no_encryption';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ondemand-video::before {
+    content: 'ondemand_video';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-personal-video::before {
+    content: 'personal_video';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-bluetooth-speaker::before {
+    content: 'phone_bluetooth_speaker';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-forwarded::before {
+    content: 'phone_forwarded';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-in-talk::before {
+    content: 'phone_in_talk';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-locked::before {
+    content: 'phone_locked';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-missed::before {
+    content: 'phone_missed';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-paused::before {
+    content: 'phone_paused';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power::before {
+    content: 'power';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-priority-high::before {
+    content: 'priority_high';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sd-card::before {
+    content: 'sd_card';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card-alert::before {
+    content: 'sim_card_alert';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms::before {
+    content: 'sms';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms-failed::before {
+    content: 'sms_failed';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync::before {
+    content: 'sync';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-disabled::before {
+    content: 'sync_disabled';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-problem::before {
+    content: 'sync_problem';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-system-update::before {
+    content: 'system_update';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tap-and-play::before {
+    content: 'tap_and_play';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-time-to-leave::before {
+    content: 'time_to_leave';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vibration::before {
+    content: 'vibration';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-voice-chat::before {
+    content: 'voice_chat';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vpn-lock::before {
+    content: 'vpn_lock';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wc::before {
+    content: 'wc';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi::before {
+    content: 'wifi';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ac-unit::before {
+    content: 'ac_unit';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airport-shuttle::before {
+    content: 'airport_shuttle';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-all-inclusive::before {
+    content: 'all_inclusive';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beach-access::before {
+    content: 'beach_access';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-business-center::before {
+    content: 'business_center';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-casino::before {
+    content: 'casino';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-care::before {
+    content: 'child_care';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-friendly::before {
+    content: 'child_friendly';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fitness-center::before {
+    content: 'fitness_center';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-free-breakfast::before {
+    content: 'free_breakfast';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-golf-course::before {
+    content: 'golf_course';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hot-tub::before {
+    content: 'hot_tub';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-kitchen::before {
+    content: 'kitchen';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pool::before {
+    content: 'pool';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-room-service::before {
+    content: 'room_service';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rv-hookup::before {
+    content: 'rv_hookup';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoke-free::before {
+    content: 'smoke_free';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoking-rooms::before {
+    content: 'smoking_rooms';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-spa::before {
+    content: 'spa';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cake::before {
+    content: 'cake';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-domain::before {
+    content: 'domain';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group::before {
+    content: 'group';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group-add::before {
+    content: 'group_add';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-city::before {
+    content: 'location_city';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood::before {
+    content: 'mood';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood-bad::before {
+    content: 'mood_bad';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications::before {
+    content: 'notifications';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-active::before {
+    content: 'notifications_active';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-none::before {
+    content: 'notifications_none';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-off::before {
+    content: 'notifications_off';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-paused::before {
+    content: 'notifications_paused';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pages::before {
+    content: 'pages';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-party-mode::before {
+    content: 'party_mode';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people::before {
+    content: 'people';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people-outline::before {
+    content: 'people_outline';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person::before {
+    content: 'person';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-add::before {
+    content: 'person_add';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-outline::before {
+    content: 'person_outline';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-plus-one::before {
+    content: 'plus_one';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-poll::before {
+    content: 'poll';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-public::before {
+    content: 'public';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-school::before {
+    content: 'school';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-dissatisfied::before {
+    content: 'sentiment_dissatisfied';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-neutral::before {
+    content: 'sentiment_neutral';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-satisfied::before {
+    content: 'sentiment_satisfied';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-dissatisfied::before {
+    content: 'sentiment_very_dissatisfied';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-satisfied::before {
+    content: 'sentiment_very_satisfied';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-share::before {
+    content: 'share';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-whatshot::before {
+    content: 'whatshot';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box::before {
+    content: 'check_box';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box-outline-blank::before {
+    content: 'check_box_outline_blank';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-indeterminate-check-box::before {
+    content: 'indeterminate_check_box';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-checked::before {
+    content: 'radio_button_checked';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-unchecked::before {
+    content: 'radio_button_unchecked';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star::before {
+    content: 'star';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-border::before {
+    content: 'star_border';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-half::before {
+    content: 'star_half';
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Component.scss:66 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Roboto Regular'), local('Roboto-Regular'), url("../../modern/resources/fonts/roboto/Roboto-Regular.ttf") format('truetype');
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Component.scss:74 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+    src: local('Roboto Light'), local('Roboto-Light'), url("../../modern/resources/fonts/roboto/Roboto-Light.ttf") format('truetype');
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Component.scss:83 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: normal;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url("../../modern/resources/fonts/roboto/Roboto-Medium.ttf") format('truetype');
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Component.scss:92 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url("../../modern/resources/fonts/roboto/Roboto-Bold.ttf") format('truetype');
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Component.scss:101 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: italic;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url("../../modern/resources/fonts/roboto/Roboto-Italic.ttf") format('truetype');
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Component.scss:112 */
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Material Icons'), local('MaterialIcons-Regular'), url("../../modern/resources/fonts/MaterialIcons-Regular.ttf") format('truetype');
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Component.scss:121 */
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #111;
+    color: var(--color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Indicator.scss:1 */
+.x-indicator span {
+    transition: background-color 0.25s ease-out, width 0.1s ease-out, height 0.1s ease-out;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/list/TreeItem.scss:1 */
+.x-gridcell.x-treelist-item {
+    border: none;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:10 */
+.x-button-fab .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+    color: #222;
+    color: var(--accent-foreground-color);
+    display: flex;
+    width: 56px;
+    height: 56px;
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:23 */
+.x-button-fab .x-ripple {
+    background-color: #222;
+    background-color: var(--accent-foreground-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:27 */
+.x-button-fab.x-hovered .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:31 */
+.x-keyboard-mode .x-button-fab.x-focused .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:36 */
+.x-big .x-button-fab .x-inner-el {
+    border-radius: 50%;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:41 */
+.x-button-fab .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:46 */
+.x-button-fab.x-pressing .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.21), 2px 2px 6px 0 rgba(0, 0, 0, 0.18);
+    z-index: 3;
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:48 */
+.x-button-fab.x-pressing .x-inner-el .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:57 */
+.x-docked-top .x-has-badge .x-badge-el {
+    top: -8px;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Button.scss:63 */
+.x-has-badge .x-badge-el {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 1;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Toolbar.scss:1 */
+.x-toolbar-body-el {
+    overflow: visible;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Toolbar.scss:6 */
+.x-toolbar-body-el > .x-title {
+    transition: 0.25s padding ease-out;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Panel.scss:3 */
+.x-panelheader .x-field {
+    background-color: transparent;
+    border-bottom-color: rgba(255, 255, 255, 0.38);
+    border-bottom-color: var(--reverse-disabled-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Panel.scss:7 */
+.x-panelheader .x-field .x-label-el {
+    color: #ff9800;
+    color: var(--accent-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Panel.scss:11 */
+.x-panelheader .x-field.x-focused {
+    border-bottom-color: #ff9800;
+    border-bottom-color: var(--accent-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Panel.scss:17 */
+.x-panelheader .x-input .x-cleartrigger .x-icon-el {
+    color: #fff;
+    color: var(--base-foreground-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Panel.scss:22 */
+.x-panelheader .x-input .x-input-el {
+    -webkit-text-fill-color: #fff;
+    -webkit-text-fill-color: var(--base-foreground-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Panel.scss:28 */
+.x-panelheader .x-toggleslider.x-on {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/Panel.scss:32 */
+.x-panelheader .x-toggleslider.x-on .x-thumb:after {
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/dataview/ItemHeader.scss:2 */
+.x-itemheader.x-pinned {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 3;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/dataview/SimpleListItem.scss:1 */
+.x-listitem-disclosure .x-icon-el {
+    transition: background-color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/dataview/IndexBar.scss:1 */
+.x-indexbar-indicator {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/slider/Slider.scss:2 */
+.x-slider .x-thumb {
+    transition: transform 0.15s ease-out;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/slider/Slider.scss:5 */
+.x-slider .x-thumb:active {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/slider/Slider.scss:9 */
+.x-slider .x-thumb.x-disabled:active {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/slider/Toggle.scss:1 */
+.x-toggleslider .x-thumb {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 1;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/slider/Toggle.scss:4 */
+.x-toggleslider .x-thumb:active {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/tab/Bar.scss:2 */
+.x-tabbar-body-el {
+    overflow: visible;
+    padding: 0;
+}
+/* /Volumes/Disk2/DevRoot/extjs6-sample-codes/ext/modern/theme-material/sass/src/tab/Bar.scss:6 */
+.x-big .x-tabbar-body-el {
+    padding: 0;
+}
