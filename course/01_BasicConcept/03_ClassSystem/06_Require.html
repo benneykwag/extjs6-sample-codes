@@ -1,33 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
     <title></title>
     <link rel="stylesheet" href="/ext/build/classic/theme-triton/resources/theme-triton-all.css">
     <script id="microloader" type="text/javascript" src="/ext/build/ext-all-debug.js"></script>
-     <!--<script src="src/Car.js"></script>-->
-     <!--<script src="src/Sonata.js"></script>-->
+    <!--<script src="src/Car.js"></script>-->
+    <!--<script src="src/Sonata.js"></script>-->
 </head>
 <body>
-    <script type="text/javascript">
-    Ext.Loader.setConfig({
-        paths: {
-            'ClassSystem' : 'src'
-        }
-    });
-    Ext.require([
-        'ClassSystem.Truck',
-        'ClassSystem.Sonata'
-    ]);
-    Ext.onReady(function() {
-        var sonata = Ext.create('ClassSystem.Sonata');
-        console.log(sonata.missionType);
-        sonata.run(40);
+<script type="text/javascript">
 
-//        var truck = Ext.create('ClassSystem.Truck');
 
-    });
-    </script>
+        // 패스 설정.
+        Ext.Loader.setConfig({
+            paths: {
+                'ClassSystem': 'src'
+            }
+        });
+        // 필요한 클래스를 불러온다
+        Ext.require([
+            'ClassSystem.Truck',
+            'ClassSystem.Sonata'
+        ]);
+
+        Ext.onReady(function () {
+            var sonata = Ext.create('ClassSystem.Sonata');
+            console.log(sonata.missionType);
+            sonata.run(40);
+    //        var truck = Ext.create('ClassSystem.Truck');
+        });
+
+
+</script>
 </body>
 </html>
 

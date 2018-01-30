@@ -1,6 +1,12 @@
-Ext.define('ClassSystem.NewCar',{
-    extend: 'ClassSystem.Car',
-    mixins: [
-        'ClassSystem.Wheel'
-    ]
-});
+
+
+    Ext.define('ClassSystem.NewCar',{
+        extend: 'ClassSystem.Car',
+        mixins: [
+            'ClassSystem.Wheel'
+        ]
+    });
+
+
+
+

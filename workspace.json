@@ -3,9 +3,7 @@
      *  An array of the paths to all the applications present in this workspace
      */
     "apps": [
-        "ClassApp",
-        "MyApp",
-        "kitchensink"
+        "test"
     ],
 
     /**
@@ -32,7 +30,7 @@
     "frameworks": {
         "ext": {
             "path":"ext",
-            "version":"6.5.1.345"
+            "version":"6.5.3.57"
         }
     },
 

@@ -16,8 +16,11 @@
     Ext.require([
     ])
     Ext.onReady(function() {
+
         /***
-         * 자신의 이벤트를 실행하는 fireEvent것은 이벤트 이름 으로 호출 하여 수행됩니다 . 다음 예제에서는 단추 자체와 1에서 100 사이의 임의의 숫자라는 두 개의 인수를 전달하는 myEvent라는 이벤트를 발생시킵니다.
+         * 자신의 이벤트를 실행하는 fireEvent것은 이벤트 이름 으로 호출 하여 수행됩니다 .
+         * 다음 예제에서는 단추 자체와 1에서 100 사이의 임의의 숫자라는 두 개의 인수를 전달하는
+         * myEvent라는 이벤트를 발생시킵니다.
          */
          var button = Ext.create('Ext.Button', {
             renderTo: Ext.getBody(),
@@ -34,6 +37,8 @@
         
             button.fireEvent('myEvent', button, number);
         }, 2000);
+
+
     });
     </script>
 </body>

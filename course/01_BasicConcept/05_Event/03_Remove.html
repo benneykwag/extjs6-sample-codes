@@ -16,6 +16,7 @@
     Ext.require([
     ])
     Ext.onReady(function() {
+
         /***
          * 리스너를 언제든지 추가 할 수있는 것처럼 제거 할 수도 있다. 
          * 리스너의 제거는 un함수를 사용한다 .
@@ -28,13 +29,16 @@
             renderTo: Ext.getBody(),
             text: 'My Button',
             listeners: {
-                click: doSomething,
+                click: doSomething
             }
         });
 
         Ext.defer(function() {
             button.un('click', doSomething);
         }, 3000);
+
+
+
     });
     </script>
 </body>

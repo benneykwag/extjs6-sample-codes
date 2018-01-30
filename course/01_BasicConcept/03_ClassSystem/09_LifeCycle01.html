@@ -10,6 +10,8 @@
 <body>
     <script type="text/javascript">
     Ext.onReady(function() {
+
+
         Ext.define('ClassSystem.LifeCycle', {
             extend: 'Ext.panel.Panel',
 
@@ -29,6 +31,8 @@
                 this.callParent(arguments);
             }
         });
+
+
         // case 1
         var component = Ext.create('ClassSystem.LifeCycle', {
             renderTo: document.body,
@@ -36,7 +40,10 @@
             height: 300,
             title: 'Hello World'
         });
-        //component.destroy();
+
+        component.destroy();
+
+
     });
     </script>
 </body>

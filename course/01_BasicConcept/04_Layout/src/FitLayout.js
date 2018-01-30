@@ -10,7 +10,7 @@ Ext.define('chapter4.FitLayout', {
     items: [
         {
             xtype: 'button',
-            text: '동해물과 백두산아... 하하하하하하.'
+            text: '저장'
         }
     ]
 });
